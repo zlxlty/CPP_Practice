@@ -1,7 +1,7 @@
 #include <iostream>
 #include <ctime>
 
-#define inline_test 0
+#define inline_test 1
 
 using namespace std;
 
